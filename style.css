@@ -259,6 +259,12 @@ color: rgba(0, 0, 0, 0.445);
         }
 
 }
+@media(min-width:1100px) and (max-width:1800px){
+    body{
+        height: 47rem !important;
+    }
+}
+
 .container.pop-login{
     height: 20rem !important;
     box-shadow: 0px 0px 40px 15px rgba(0,0,0,0.52);
