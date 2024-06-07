@@ -211,11 +211,10 @@ color: rgba(0, 0, 0, 0.445);
 }
 @media(max-width:992px){
     body{
-        height: 61rem;
+        height: 100vh;
     }
     .container{
         height: 41rem !important;
-        top: 14%;
     }
     .form-container {
         height: 39rem;
