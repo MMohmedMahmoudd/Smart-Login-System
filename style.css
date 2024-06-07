@@ -247,6 +247,18 @@ color: rgba(0, 0, 0, 0.445);
     }
 
 }
+@media(max-width:1800px){
+    body{
+        height: 45rem;
+    }
+    .container{
+        height: 41rem !important;
+    }
+    .form-container {
+        height: 39rem;
+        }
+
+}
 .container.pop-login{
     height: 20rem !important;
     box-shadow: 0px 0px 40px 15px rgba(0,0,0,0.52);
