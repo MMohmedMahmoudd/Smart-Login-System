@@ -211,7 +211,7 @@ color: rgba(0, 0, 0, 0.445);
 }
 @media(max-width:992px){
     body{
-        height: 100vh;
+        height: 45rem;
     }
     .container{
         height: 41rem !important;
