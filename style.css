@@ -144,7 +144,7 @@ footer{
     bottom: 0;
     background-color: rgb(44, 44, 44);
     width: 100%;
-    height: 8rem;
+    height: 7rem;
     animation-name: scrollup;
     animation-duration: 0.3s;
 
@@ -267,4 +267,8 @@ transform: translateY(50px);
     100%{
 transform: translateY(0);
     }
+}
+.center{
+    row-gap: 0.4rem !important;
+
 }
